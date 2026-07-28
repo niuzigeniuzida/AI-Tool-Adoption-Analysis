@@ -8,7 +8,7 @@
 
 ## 数据来源
 
-- 数据集：[Dataset of AI Adoption Usage among Students in Indonesia Higher Education](https://data.mendeley.com/)（Mendeley Data 公开数据集）
+- 数据集：[Dataset of AI Adoption Usage among Students in Indonesia Higher Education](https://data.mendeley.com/datasets/b89t4x2c2y/1)（Mendeley Data 公开数据集）
 - 样本量：605条原始记录，46个变量，经清洗后保留 **534条有效样本**
 - 覆盖印尼多所高校、多个专业背景的学生问卷调查数据
 
